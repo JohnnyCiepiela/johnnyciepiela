@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi there  👋
 
 - 📚 Oracle Certfied Full Stack Developer with Java and Angular
 - 🧠 60+ solved Leetcode problems
