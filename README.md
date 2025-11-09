@@ -1,4 +1,4 @@
-### Hi, my name is Jan 👋
+### Hi, I'm Jan 👋
 
 - ☕️📚 Oracle Certfied Full Stack Developer with Java and Angular
 - 🧠 70+ Leetcode problems solved
