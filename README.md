@@ -1,4 +1,4 @@
-### Hi, I'm Jan 👋
+### Hi, I'm Jan Ciepiela 👋
 
 - ☕️📚 Oracle Certfied Full Stack Developer with Java and Angular
 - 🧠 70+ Leetcode problems solved
