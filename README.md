@@ -1,6 +1,7 @@
-### Hi, I'm Jan Ciepiela 👋
+### Hi, I'm Jan 👋
 
-- ☕️📚 Oracle Certfied Full Stack Developer with Java and Angular
+- 📚 Full Stack Developer with Java and Angular
+- ☕️ Oracle Certified 
 - 🧠 70+ Leetcode problems solved
 - 🌐 Currently learning and creating projects with React
 - 📫 Check my bio for a LinkedIn profile link to contact me
