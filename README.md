@@ -4,4 +4,4 @@
 - ☕️ Java Oracle Certified 
 - 🧠 70+ solved Leetcode problems
 - 🌐 Currently learning React
-- 📫 Check my bio for a LinkedIn profile link to contact me
+- 📫 Message me on LinkedIn
