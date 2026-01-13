@@ -4,4 +4,3 @@
 - ☕️ Oracle Certified Java Associate
 - 🧠 70+ solved Leetcode problems
 - 🌐 Learning React
-- 📫 Message me on LinkedIn
