@@ -1,5 +1,5 @@
 ### Hi, I'm Jan 👋
 
-- 📚 Full Stack Software Developer
+- 📚 Full Stac Software Developer
 - ☕️ Oracle Certified Java Associate
 - 🌐 Learning React
