@@ -3,3 +3,4 @@
 - 📚 Full Stack Software Developer
 - ☕️ Java Oracle Certified
 - 🌐 Learning React
+- ✉️ LinkedIn in Bio
