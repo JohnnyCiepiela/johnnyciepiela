@@ -1,6 +1,6 @@
 ### Hi, I'm Jan 👋👨‍💻
 
-- 📚 Full Stack Software Developer
+- 📚 Software Developer at FINANTEQ
 - ☕️ Java Oracle Certified
 - 🌐 Learning React
 - ✉️ LinkedIn in Bio
