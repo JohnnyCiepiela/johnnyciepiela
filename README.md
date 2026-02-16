@@ -1,4 +1,4 @@
-### Hi, I'm Jan 👋👨‍💻
+### Hi, I'm Jan 👨‍💻
 
 - 📚 Software Developer at FINANTEQ
 - ☕️ Java Oracle Certified
