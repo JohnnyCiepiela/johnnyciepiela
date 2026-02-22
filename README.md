@@ -3,5 +3,5 @@
 - 🧑‍💻 Software Developer at FINANTEQ
 - 📚 BSc Computer Science
 - ☕️ Java Oracle Certified Associate
-- 🌐 Learning React
+- 🌐 Currently learning React
 - ✉️ LinkedIn in Bio
