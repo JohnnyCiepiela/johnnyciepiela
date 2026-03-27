@@ -1,6 +1,6 @@
 ### Hi, I'm Jan 👋
 
-- 🧑‍💻 Software Developer at FINANTEQ
+- 🧑‍💻 Software Developer
 - 📚 BSc Computer Science
 - ☕️ Java Oracle Certified
 - 🌐 Learning React
