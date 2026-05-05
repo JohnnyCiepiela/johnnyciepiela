@@ -1,7 +1,7 @@
 ### Hi, I'm Jan 👋
 
 - 🧑‍💻 Software Developer
-- 🏃 Runnerr
+- 🏃 Runner
 - 📚 BSc Computer Science
 - ☕️ Java Oracle Certified
 - 🌐 Learning React
