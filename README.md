@@ -1,6 +1,6 @@
 ### Hi, I'm Jan 👋
 
-- 🧑‍💻 Software Developer
+- 🧑‍💻 Fullstack Software Developer
 - 📚 BSc Computer Science
 - ☕️ Java Oracle Certified
 - ✉️ LinkedIn in Bio
